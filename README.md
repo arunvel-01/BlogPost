@@ -22,6 +22,10 @@ This project is a basic blog website that allows users to compose, view, and rea
 - View a list of existing blog posts on the home page.
 - Click on a blog post to view the full content.
 
+# LIVE DEMO
+
+https://insightful-blogs.onrender.com/
+
 ## Getting Started
 
 1. Clone the repository:
