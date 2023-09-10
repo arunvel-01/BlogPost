@@ -26,7 +26,7 @@ This project is a basic blog website that allows users to compose, view, and rea
 
 You can access the live website [here](https://rest-api-jxk3.onrender.com/).
 
-[![Live Website]](https://rest-api-jxk3.onrender.com/)
+Live Website(https://rest-api-jxk3.onrender.com/)
 
 ## Getting Started
 
