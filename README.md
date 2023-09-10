@@ -22,9 +22,11 @@ This project is a basic blog website that allows users to compose, view, and rea
 - View a list of existing blog posts on the home page.
 - Click on a blog post to view the full content.
 
-# LIVE DEMO
+## Live Website
 
-https://insightful-blogs.onrender.com/
+You can access the live website [here](https://rest-api-jxk3.onrender.com/).
+
+[![Live Website]](https://rest-api-jxk3.onrender.com/)
 
 ## Getting Started
 
