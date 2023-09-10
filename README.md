@@ -24,7 +24,7 @@ This project is a basic blog website that allows users to compose, view, and rea
 
 ## Live Website
 
-You can access the live website [here](https://rest-api-jxk3.onrender.com/).
+You can access the live website [here](https://insightful-blogs.onrender.com).
 
 ## Getting Started
 
