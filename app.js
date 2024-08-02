@@ -4,7 +4,6 @@ const ejs = require("ejs");
 const _ = require("lodash");
 const mongoose = require("mongoose");
 const { ObjectId } = require("mongoose");
-const { job } = require('./cron');
 
 require("dotenv").config();
 
@@ -97,8 +96,6 @@ app.get("/posts/:postId", async function (req, res) {
     // Handle the error appropriately
   }
 });
-
-job.start();
 
 // Start the server
 const port = process.env.PORT || 3000;
